@@ -1,7 +1,6 @@
 {
   "name": "webpack-webp-loader",
   "version": "0.1.0",
-  "private": true,
   "description": "convert jpg/png/gif to webp by webpack loader",
   "main": "./webp-loader.js",
   "repository": {
